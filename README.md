@@ -1,5 +1,5 @@
-RFrequ
-------
+RFreq
+-----
 
 
 ### What is it?
